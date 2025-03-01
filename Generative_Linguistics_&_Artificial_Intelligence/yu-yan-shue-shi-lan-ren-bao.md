@@ -29,18 +29,6 @@
 * 一是將超越了音韻與構詞研究，將**語法 (syntax)** 放入語言學的研究視角內。
 * 二是從**生物認知計算**的層面探討人類的語言知識，並提出 1920 年代至 1950 年代之間，美國心理學界盛行的行為主義 (behaviorism) 倡導的刺激-反饋學習 (stimulus-response learning) ，透過大量的刺激，就能學會語言能力的解釋，無法涵蓋母語知識的全貌，也無法解釋其發展的機制。因為人類幼童並沒有接受大量的刺激，就會開始流利地使用母語了。這種「學得很少，懂得很多」的事情，就是語言本能。
 
-Here's a simple footnote,[^1] and here's a longer one.[^bignote]
-
-[^1]: This is the first footnote.
-
-[^bignote]: Here's one with multiple paragraphs and code.
-
-    Indent paragraphs to include them in the footnote.
-
-    `{ my code }`
-
-    Add as many paragraphs as you like.
-
 ---
 
-#### [1] : 結構語言學的「結構」不是指「句法結構」(hierarchical structure)，而是指人類語言可以區分為句法、語意、構詞、音韻、語音等不同模組 (module)。
+#### [1]{#[1]}: 結構語言學的「結構」不是指「句法結構」(hierarchical structure)，而是指人類語言可以區分為句法、語意、構詞、音韻、語音等不同模組 (module)。
