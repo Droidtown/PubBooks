@@ -12,7 +12,7 @@
 * 當你聽到別人說「_**語言學如何如何**_」的時候，請先分辨對方說的是傳統語言學還是現代語言學。
 * 19 世紀中葉前，傳統語言學研究主要由歷史語言學主導。
   * 像威廉·瓊斯爵士 (Sir William Jones)、格林 (Jacob Grimm) 等學者關注語言之間的音變規律歷史關係，以及重建原始語言。
-* 19 世紀中葉後，傳統語言學轉向結構語言學。費迪南·德·索緒爾 (Ferdinand de Saussure) 提出語言是一個由音位和意義單位組成的抽象系統，探討符號及意義的關係，開創了結構語言學 (structural linguistics)[\[1\]](yu-yan-xue-shi-lan-ren-bao.md#undefined-1)。
+* 19 世紀中葉後，傳統語言學轉向結構語言學。費迪南·德·索緒爾 (Ferdinand de Saussure) 提出語言是一個由音位和意義單位組成的抽象系統，探討符號及意義的關係，開創了結構語言學 (structural linguistics) [註1]。
   * 影響歐洲及美國的語言學家如雅各布森 (Roman Jakobson) 以及布龍菲爾德 (Leonard Bloomfield)，結構語言學家研究語音如何組合成表達特定意義的詞彙，並提出一套整理音韻 (phonology) 與構詞 (morphology) 規則的系統性方法。
 * 結構語言學的中心思想 (和現代語言學沒什麼關係)
 * 語言是社交的產物！為了社交而生的！Language is a **social** entity
